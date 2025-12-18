@@ -18,7 +18,7 @@
   - cuDNN / CUDA (driver แสดง CUDA 13.0) → ติดตั้ง PaddlePaddle GPU wheel ใหม่ให้ถูกชุด และเตรียม cuDNN ให้พร้อม
   - การใช้ validation ในการ eval ต้องเปลี่ยน config batch ให้เป็น 1 
 - train ด้วย CPU 1.30 นาที ต่อ epoc และ T4 GPU 5 วิ ต่อ epoc
-- 
+
 ---
 
 ## 1) เตรียม Repository
